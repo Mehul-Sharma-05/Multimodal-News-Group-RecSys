@@ -120,11 +120,6 @@ python recommend.py --groups_path data/groups.json --output results/recommendati
 
 ---
 
-## License
-
-This project is released under the MIT License. Please cite our work if used in academic research.
-
----
 
 For more details or troubleshooting, refer to [docs/](docs/) or contact the maintainers. 
 
